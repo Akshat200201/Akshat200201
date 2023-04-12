@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Web Developing Projects**
+- 👯 I’m looking to collaborate on **Android dev Projects**
 
-- 🤝 I’m looking for help with **WebDevelopment**
+- 🤝 I’m looking for help with **Flutter Development**
 
 - 💬 Ask me about **Java , Python , DSA , Frontend , Webdevelopment.**
 
