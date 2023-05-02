@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
 <h3 align="center">A passionate Flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.search.yahoo.com/search/images;_ylt=AwrjZWYrP1FkpFcP4jNXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=programer+git+hub+profile+pic&fr2=piv-web&type=E211US885G0&fr=mcafee#id=24&iurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1360%2F1*IRGHmiGsa16stedQvIaZfw.gif&action=click">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
